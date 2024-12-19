@@ -1,1 +1,1 @@
-laba №6
+laba №6 (only task 1)
